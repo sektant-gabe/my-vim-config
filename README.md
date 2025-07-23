@@ -24,7 +24,7 @@ your-package-manager install neovim
 ```
 ###### Windows(are you ok buddy?)
 
-**Install one of these before wishing to be productive, lol:**
+**Install one of these before wishing to be productive on windows, lol:**
 - [Linux Mint](https://linuxmint-installation-guide.readthedocs.io/en/latest/)
 - [Arch Linux](https://wiki.archlinux.org/title/Installation_guide)
 
