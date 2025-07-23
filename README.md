@@ -16,7 +16,7 @@ mv ~/.cache/nvim ~/.cache/nvim.bak
 #### Clone this repo
 
 ```shell
-git clone https://github.com/sektant-gabe/my-dev-env ~/.config/nvim
+git clone https://github.com/sektant-gabe/my-vim-config.git ~/.config/nvim
 ```
 
 #### Now just lock in, stop sharpening the God damn axe and go get things done mf
