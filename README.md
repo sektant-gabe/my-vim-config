@@ -44,4 +44,3 @@ nvim
 ### BONUS:
 
 **If you want a desktop vim app so you can set as default editor for files, install** [Neovide](https://neovide.dev/installation.html)
-```
